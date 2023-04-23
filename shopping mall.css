@@ -1,0 +1,28 @@
+#mass {
+    background-color: blueviolet;
+    height: fit-content;
+    border-top-left-radius: 50px !important;
+    border-bottom-right-radius: 50px !important;
+}
+table, tr, td{
+    border: 2px solid white;
+    border-collapse: collapse;
+}
+td {
+    color: yellow !important;
+    font-size: larger;
+    font-weight: 600;
+}
+#marquee{
+    color: yellow;
+}
+#delete{
+    color: black;
+}
+ #add:hover{
+    background-color: springgreen;
+    border-radius: 15px;
+} 
+#edit{
+    color: white;
+}
